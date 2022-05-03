@@ -47,15 +47,15 @@ Binary Search is powered by Google Firebase with an extensive amount of features
 
 ## Authentication
 
-Using Firebase authentication, you can create an account using email and password. Everything will be hashed automatically so don't worry about security. Additionally, you can also sign in with an existing Google account.
+Using Firebase authentication, you can create an account using your email and password. Everything will be hashed automatically so don't worry about security. Additionally, you can also sign in with an existing Google account.
 
 ## Find Users
 
-Once you are logged in, go to `/` to see a list of active users on the platform
+Once you are logged in, go to `/` to see a list of active users on the platform.
 
 ## Chat
 
-For each user on the homepage, you can chat with them, this chat feature is running in real-time. You can find existing chatrooms in `/chat`, everything is saved (unlike Snapchat😊)
+Our chat feature allows users to converse with each other on the homepage; this runs in real-time. You can find existing chatrooms in `/chat`, everything is saved (unlike Snapchat😊)
 
 ## Project
 
