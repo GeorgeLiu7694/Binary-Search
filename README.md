@@ -55,7 +55,7 @@ Once you are logged in, go to `/` to see a list of active users on the platform
 
 ## Chat
 
-For each user on the homepage, you can chat with them, this chat feature is running in real-time. You can find existing chatrooms in `/chat`, everything is saved (unlike Snapchat😊)
+Allows users to chat with one another on the homepage, this chat feature is running in real-time. You can find existing chatrooms in `/chat`, everything is saved (unlike Snapchat😊)
 
 ## Project
 
